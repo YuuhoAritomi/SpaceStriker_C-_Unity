@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceStriker", "SpaceStriker.csproj", "{621EAD1C-11D1-0A78-7F71-8FB5DB73AE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceStriker.Editor", "SpaceStriker.Editor.csproj", "{B62D7759-EE07-6829-099E-D0E9E7DFC669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621EAD1C-11D1-0A78-7F71-8FB5DB73AE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621EAD1C-11D1-0A78-7F71-8FB5DB73AE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621EAD1C-11D1-0A78-7F71-8FB5DB73AE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621EAD1C-11D1-0A78-7F71-8FB5DB73AE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62D7759-EE07-6829-099E-D0E9E7DFC669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62D7759-EE07-6829-099E-D0E9E7DFC669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62D7759-EE07-6829-099E-D0E9E7DFC669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62D7759-EE07-6829-099E-D0E9E7DFC669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
